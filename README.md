@@ -1,6 +1,6 @@
 # Instacart-Market-Basket-Analysis---
 Data Mining Final Project | Instacart Market Basket Analysis | Northeastern University
-# 🛒 Instacart Market Basket Analysis – Group 2  
+# 🛒 Instacart Market Basket Analysis 
 ### *Data Mining Final Project | ALY 6110 | Northeastern University*
 
 ---
