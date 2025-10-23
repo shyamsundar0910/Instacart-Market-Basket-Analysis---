@@ -17,11 +17,11 @@ Our primary objective was to identify **customer segments and product reorder tr
 
 | Member | Section | Key Responsibilities |
 |:-------|:---------|:----------------------|
-| **Ruman** | Data Acquisition & Overview | Introduced dataset, sources, and overall context |
-| **Princess** | Data Description & Cleaning | Handled variable identification, missing values, and outlier treatment |
-| **Snovy** | Data Transformation & Pre-Model Preparation | Applied data encoding, feature scaling, and consistency checks |
-| **Junhui** | Feature Engineering & PCA (Hypothesis 1) | Developed features, applied PCA, and analyzed cluster patterns |
-| **Muhammad** | Feature Engineering & PCA (Hypothesis 2) | Conducted parallel feature engineering and clustering validation |
+| **Ruman Liu** | Data Acquisition & Overview | Introduced dataset, sources, and overall context |
+| **Princess Chishato** | Data Description & Cleaning | Handled variable identification, missing values, and outlier treatment |
+| **Snovy Sunil Dbritto** | Data Transformation & Pre-Model Preparation | Applied data encoding, feature scaling, and consistency checks |
+| **Junhui HU** | Feature Engineering & PCA (Hypothesis 1) | Developed features, applied PCA, and analyzed cluster patterns |
+| **Muhammad Waqas Azam** | Feature Engineering & PCA (Hypothesis 2) | Conducted parallel feature engineering and clustering validation |
 | **Shyam Sundar N** | Reproducibility & Overall Summary | Summarized workflow, documented code reproducibility (GitHub), and presented final conclusions |
 
 ---
